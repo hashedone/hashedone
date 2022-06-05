@@ -4,8 +4,8 @@ My name is Bartłomiej Kuras, and I'm a Rust developer from Poland.
 
 ### What do I do?
 
-- I'm [Confio](https://confio.gmbh/) contractor [CosmWasm](https://github.com/CosmWasm) maintainer, trainer in [CosmWasm Academy](https://academy.cosmwasm.com/)
--I’m currently working on [CosmWasm book](https://cosmwasm.github.io/book/) and [Sylvia Framework](https://github.com/CosmWasm/sylvia)
+- I'm [Confio](https://confio.gmbh/) contractor, [CosmWasm](https://github.com/CosmWasm) maintainer, trainer in [CosmWasm Academy](https://academy.cosmwasm.com/)
+- I’m currently working on [CosmWasm book](https://cosmwasm.github.io/book/) and [Sylvia Framework](https://github.com/CosmWasm/sylvia)
 - I'm a co-organizer of Rust Wrocław Meetup
 - I'm conducting Rust trainings
 - I'm speaking on Meetups
