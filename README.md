@@ -19,7 +19,7 @@ At least some of them:
 - Why do I avoid Box, and how it's not all about performance?
 - Tower load balancing use case - real-life failure use case post mortem
 - From blokcing to async Rust
-- Borow checker demythed <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="20">
+- Borow checker demythed <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="15">
 - Memory management strategies - Garbage Collector vs Rust Ownership model
 - Objective designs meets Rust
 
