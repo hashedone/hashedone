@@ -27,7 +27,7 @@ My name is Bartłomiej Kuras, and I'm a Rust developer from Poland.
 - [Error hanlding in Rust part 2: Result](https://bulldogjob.pl/readme/obsluga-bledow-w-jezyku-rust-cz-2-result) <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="15">
 - [Is it worth to learn Rust?](https://geek.justjoin.it/jezyk-rust) <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="15">
 
-### How to find me?
+### How to get in touch?
 
 You can reach me through [Rust Wrocław](https://www.rust-wroclaw.pl/) community - message @hashedone
 
