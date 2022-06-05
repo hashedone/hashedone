@@ -5,13 +5,43 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bart%C5%82omiej-kuras-94322ab0/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bart.k)
 
-### Hi there 👋
+# Hi there 👋
 
-My name is Bartłomiej Kuras, and I'm a Rust developer focusing on CosmWasm maintenance.
-Also, I'm a co-organizer of Rust Wrocław Meetup.
+My name is Bartłomiej Kuras, and I'm a Rust developer from <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48"> Poland.
 
+### What do I do?
+
+- I'm [Confio](https://confio.gmbh/) contractor [CosmWasm](https://github.com/CosmWasm) maintainer, trainer in [CosmWasm Academy](https://academy.cosmwasm.com/).
 - 🔭 I’m currently working on [CosmWasm book](https://cosmwasm.github.io/book/) and [Sylvia Framework](https://github.com/CosmWasm/sylvia)
-- 💬 Always happy to talk about prividing a Rust training
-- 📫 You can reach me through [Rust Wrocław](https://www.rust-wroclaw.pl/) community - message @hashedone
+- I'm a co-organizer of Rust Wrocław Meetup.
+- I'm conducting Rust trainings.
+- I'm speaking on Meetups
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashedone&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+### My Medium activity
+
+
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bart.k/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bart.k/0" alt="Recent Article 0"></a>
+- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@bart.k/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@bart.k/1" alt="Recent Article 1"></a>
+
+### My past talks
+
+At least some of them:
+
+- 10 most common Rust missunderstandings
+- Why do I avoid Box, and how it's not all about performance?
+- Tower load balancing use case - real-life failure use case post mortem
+- From blokcing to async Rust
+- Borow checker demythed <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
+- Memory management strategies - Garbage Collector vs Rust Ownership model
+- Objective designs meets Rust
+
+### My other publications
+
+- [Error hanlding in Rust part 1: Option](https://bulldogjob.pl/readme/obsluga-bledow-w-jezyku-rust-cz-1-option) <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
+- [Error hanlding in Rust part 2: Result](https://bulldogjob.pl/readme/obsluga-bledow-w-jezyku-rust-cz-2-result) <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
+- [Is it worth to learn Rust?](https://geek.justjoin.it/jezyk-rust) <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
+
+### How to find me?
+
+You can reach me through [Rust Wrocław](https://www.rust-wroclaw.pl/) community - message @hashedone
+
