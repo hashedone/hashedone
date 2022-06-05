@@ -10,7 +10,7 @@
 My name is Bartłomiej Kuras, and I'm a Rust developer focusing on CosmWasm maintenance.
 Also, I'm a co-organizer of Rust Wrocław Meetup.
 
-- 🔭 I’m currently working on [CosmWasm book](https://github.com/CosmWasm/book) and [Sylvia Framework](https://github.com/CosmWasm/sylvia)
+- 🔭 I’m currently working on [CosmWasm book](https://cosmwasm.github.io/book/) and [Sylvia Framework](https://github.com/CosmWasm/sylvia)
 - 💬 Always happy to talk about prividing a Rust training
 - 📫 You can reach me through [Rust Wrocław](https://www.rust-wroclaw.pl/) community - message @hashedone
 
