@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Bartłomiej Kuras, and I'm a Rust developer from <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="20"> Poland.
+My name is Bartłomiej Kuras, and I'm a Rust developer from Poland.
 
 ### What do I do?
 
@@ -25,9 +25,9 @@ At least some of them:
 
 ### My other publications
 
-- [Error hanlding in Rust part 1: Option](https://bulldogjob.pl/readme/obsluga-bledow-w-jezyku-rust-cz-1-option) <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="20">
-- [Error hanlding in Rust part 2: Result](https://bulldogjob.pl/readme/obsluga-bledow-w-jezyku-rust-cz-2-result) <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="20">
-- [Is it worth to learn Rust?](https://geek.justjoin.it/jezyk-rust) <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="20">
+- [Error hanlding in Rust part 1: Option](https://bulldogjob.pl/readme/obsluga-bledow-w-jezyku-rust-cz-1-option) <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="15">
+- [Error hanlding in Rust part 2: Result](https://bulldogjob.pl/readme/obsluga-bledow-w-jezyku-rust-cz-2-result) <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="15">
+- [Is it worth to learn Rust?](https://geek.justjoin.it/jezyk-rust) <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="15">
 
 ### How to find me?
 
