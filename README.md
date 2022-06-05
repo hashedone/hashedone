@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Bartłomiej Kuras, and I'm a Rust developer from Poland.
+My name is Bartłomiej Kuras, I'm a Rust developer and mentor from Poland.
 
 ### What do I do?
 
