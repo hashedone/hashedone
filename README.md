@@ -13,8 +13,6 @@ My name is Bartłomiej Kuras, and I'm a Rust developer from Poland.
 
 ### My past talks
 
-At least some of them:
-
 - 10 most common Rust missunderstandings
 - Why do I avoid Box, and how it's not all about performance?
 - Tower load balancing use case - real-life failure use case post mortem
