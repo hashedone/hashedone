@@ -31,4 +31,4 @@ My name is Bartłomiej Kuras, and I'm a Rust developer from Poland.
 
 You can reach me through [Rust Wrocław](https://www.rust-wroclaw.pl/) community - message @hashedone
 
-Also find me on [LinkedIn](https://www.linkedin.com/in/bart%C5%82omiej-kuras-94322ab0/)
+Find me on [LinkedIn](https://www.linkedin.com/in/bart%C5%82omiej-kuras-94322ab0/)
