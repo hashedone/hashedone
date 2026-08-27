@@ -1,34 +1,15 @@
-# Hi there 👋
+# Bartłomiej Kuras
 
-My name is Bartłomiej Kuras, I'm a Rust developer and mentor from Poland.
+I’m a [Staff Rust Developer at SoftwareMill](https://softwaremill.com/team/). I use Rust to solve hard systems problems, from smart-contract frameworks to agent memory and context infrastructure.
 
-### What do I do?
+At the AI boundary, I focus on systems engineering rather than model research: MCP integrations, secure tool use, provider-boundary controls, and AI-native developer tooling.
 
-- [Confio](https://confio.gmbh/) contractor, [CosmWasm](https://github.com/CosmWasm) maintainer, trainer in [CosmWasm Academy](https://academy.cosmwasm.com/)
-- Currently working on [CosmWasm book](https://cosmwasm.github.io/book/) and [Sylvia Framework](https://github.com/CosmWasm/sylvia)
-- Co-organizer of [Rust Wrocław](https://www.rust-wroclaw.pl/) Meetup
-- Conducting Rust trainings
-- Speaking on Meetups
-- Publishing on [Medium](https://medium.com/@bart.k)
+## What to inspect
 
-### My past talks
+- [**Sylvia**](https://github.com/hashedone/sylvia) — the CosmWasm smart-contract framework I created. I also maintained [`cw-multi-test`](https://github.com/CosmWasm/cw-multi-test) and co-created CosmWasm Academy.
+- [**To impl or not to impl: The State of Existential Types in Rust**](https://www.rustikon.dev/talk/to-impl-or-not-to-impl-the-state-of-existential-types-in-rust) — my Rustikon 2026 talk. The talk draws on my contribution to the standard-library APIs `Option::as_slice` and `Option::as_mut_slice`.
+- **Writing:** [Mastering Rust Patterns vol. 1: Rust Newtypes](https://softwaremill.com/mastering-rust-patterns-vol-1-rust-newtypes/) and [Adapter Pattern in Rust: Overcoming the Orphan Rule with Newtype and Extension Traits](https://softwaremill.com/adapter-pattern-in-rust-overcoming-the-orphan-rule-with-newtype-and-extension-traits/).
 
-- 10 most common Rust missunderstandings
-- Why do I avoid Box, and how it's not all about performance?
-- Tower load balancing use case - real-life failure use case post mortem
-- From blokcing to async Rust
-- Borow checker demythed <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="15">
-- Memory management strategies - Garbage Collector vs Rust Ownership model
-- Objective designs meets Rust
+I previously served as Head of Engineering and co-organized [Rust Wrocław](https://www.rust-wroclaw.pl/).
 
-### My other publications
-
-- [Error hanlding in Rust part 1: Option](https://bulldogjob.pl/readme/obsluga-bledow-w-jezyku-rust-cz-1-option) <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="15">
-- [Error hanlding in Rust part 2: Result](https://bulldogjob.pl/readme/obsluga-bledow-w-jezyku-rust-cz-2-result) <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="15">
-- [Is it worth to learn Rust?](https://geek.justjoin.it/jezyk-rust) <img src="https://hatscripts.github.io/circle-flags/flags/pl.svg" width="15">
-
-### How to get in touch?
-
-You can reach me through [Rust Wrocław Slack](https://join.slack.com/t/rust-wroclaw/shared_invite/enQtNTQ2NjEwOTA3OTIwLWViZDUwYmMyZjkyNWYyNDFkMWUzYTZiMjBjZmE5OTYyNzE2NzBhYzJhZGFjYjcwZTU2MTU3MzM1ODRiNDdhNWU) community - message @hashedone
-
-Find me on [LinkedIn](https://www.linkedin.com/in/%F0%9F%A6%80-bart%C5%82omiej-kuras-94322ab0/)
+[Website](https://hashedone.github.io/) · [LinkedIn](https://www.linkedin.com/in/hashedone/)
